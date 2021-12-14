@@ -1,7 +1,7 @@
 ![python pratice](Python.jpeg)
 Numpy
 
-```
+```python
 from logging import raiseExceptions
 import unittest
 from stringcolor import *
