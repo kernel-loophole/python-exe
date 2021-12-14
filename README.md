@@ -14,6 +14,7 @@ class teststing(unittest.TestCase):
     def setUp(self):
         self.widget = ('The widget')
 ```
+# String Pattern
 ```python
 import  random
 def defaulter():
