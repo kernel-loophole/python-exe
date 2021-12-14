@@ -14,7 +14,7 @@ class teststing(unittest.TestCase):
     def setUp(self):
         self.widget = ('The widget')
 ```
-# unittest with Python
+# Socket Programming
 
 ```python
 def service_connection():
