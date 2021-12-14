@@ -12,6 +12,9 @@ def defaulter():
                  
             '''
     print(string)
+def test():
+    print("hello")
+    return 1
 def ran():
     s=['ali','junaid','hamza','Zain','samad']
     s.sort()
