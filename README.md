@@ -15,7 +15,7 @@ class teststing(unittest.TestCase):
         self.widget = ('The widget')
 ```
 # Pytest
-```
+```python
 from example_test import add_two
 class TestClass:
     def test_task1(x):
