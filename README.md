@@ -54,7 +54,7 @@ def service_connection():
         name_of_file=input("enter the name of file you wanted to put Data")
 ```
 
-# Strapy
+# Scrapy
 ```python
 from fileinput import filename
 from unicodedata import name
