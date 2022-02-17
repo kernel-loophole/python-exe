@@ -80,7 +80,7 @@ class Spider(scrapy.Spider):
             f.write(response.body)
         self.log(f'Saved file {filename}')    
 ```
-# Scrapy
+# Generator Function
 ```python
 def genator(n):
     for i in range(n):
