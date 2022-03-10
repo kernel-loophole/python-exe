@@ -7,6 +7,7 @@ preser.add_argument("-v","--verbosity",choices=[0,1,2],type=int)#optional argume
 arg=preser.parse_args()
 print(cs("HERE IS ARGUMENTS++","blue"))
 print(cs(arg.test,"green"))
+
 if arg.verbosity==0:
     abc=int(input("enter your name"))
     if abc==0:
