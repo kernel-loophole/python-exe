@@ -1,6 +1,5 @@
 ![python pratice](Python.jpeg)
 # unittest with Python
-![demo](https://user-images.githubusercontent.com/76658396/163186675-d9770d15-e34c-49c2-b225-a2b7df98a3f4.gif)
 
 
 ```python
