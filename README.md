@@ -1,7 +1,6 @@
 ![python pratice](Python.jpeg)
 # unittest with Python
-
-
+HI
 ```python
 from logging import raiseExceptions
 import unittest
